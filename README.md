@@ -9,9 +9,9 @@ This repository contains the solutions for the three tasks assigned during the J
 
 The patch files for each task can be found in the `patches` directory of this repository. They represent the code changes and solutions implemented for each task.
 
-- [Task 1 Patch](patches/task1.patch)
-- [Task 2 Patch](patches/task2.patch)
-- [Task 3 Patch](patches/task3.patch)
+- [Task 1 Patch](task1.patch)
+- [Task 2 Patch](task2.patch)
+- [Task 3 Patch](task3.patch)
 
 ## How to Apply the Patches
 
