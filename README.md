@@ -1,6 +1,5 @@
 # JP Morgan 
 # Software Engineering Job Simulation
-
 ## Overview
 
 This repository contains the solutions for the three tasks assigned during the JP Morgan Software Engineering Job Simulation. The certification program provided hands-on experience with real-world software engineering challenges, enhancing my skills and preparing me for a career in the field.
