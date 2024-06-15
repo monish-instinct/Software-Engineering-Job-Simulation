@@ -1,38 +1,9 @@
-# JP Morgan Software Engineering Job Simulation
+# JP Morgan 
+# Software Engineering Job Simulation
 
 ## Overview
 
 This repository contains the solutions for the three tasks assigned during the JP Morgan Software Engineering Job Simulation. The certification program provided hands-on experience with real-world software engineering challenges, enhancing my skills and preparing me for a career in the field.
-
-## Certificate
-
-![Certificate](https://github.com/monish-instinct/Software-Engineering-Job-Simulation/Certificate.png)
-
-## Tasks
-
-### Task 1: [Task Name]
-
-**Description:**
-Briefly describe what the task was about.
-
-**Solution:**
-Explain your approach and the key steps you took to complete the task.
-
-### Task 2: [Task Name]
-
-**Description:**
-Briefly describe what the task was about.
-
-**Solution:**
-Explain your approach and the key steps you took to complete the task.
-
-### Task 3: [Task Name]
-
-**Description:**
-Briefly describe what the task was about.
-
-**Solution:**
-Explain your approach and the key steps you took to complete the task.
 
 ## Patch Files
 
